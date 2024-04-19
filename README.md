@@ -1,0 +1,1 @@
+# Intra-AD-KQL
