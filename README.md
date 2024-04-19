@@ -29,3 +29,16 @@
 
 ---
 
+### Attacker Mode 
+
+## We will simulate a brute-force attack against AAD but before we do that we have to create our user called "attacker" 
+
+<img src="https://github.com/VanessaMancia/Intra-AD-KQL/assets/112146207/7c0e5b5c-9f39-4b2c-8407-519fc83368c4.png">
+
+---
+
+## Now let's go Work Analytics workspace and use KQL to query our Signin Logs 
+
+<img src="https://github.com/VanessaMancia/Intra-AD-KQL/assets/112146207/234baf0d-cc65-44c5-8d2a-7b006f4fabf7.png">
+
+
